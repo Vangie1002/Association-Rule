@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581418657439.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "832629239",
+    "id" : "88EAA7FD",
+    "lastKnownWriteTime" : 1582109096,
+    "last_content_update" : 1582109096494,
+    "path" : "C:/Users/49157/Desktop/ubiqum/Module 2/Associationrule/BM.R",
+    "project_path" : "BM.R",
+    "properties" : {
+        "cursorPosition" : "32,13",
+        "scrollLine" : "22",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
